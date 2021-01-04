@@ -13,9 +13,12 @@ This repository includes:
 
 * **Images & documents folder** In this folder I keep the images that I used for this project.  
 * .gitignore file
-* README file
-* LICENSE file
 * **Fundamentals DA-Project** Jupyter Notebook.
+* LICENSE file
+* Powerproduction dataset.csv. This is the dataset file used in this project. 
+* README file
+
+
 
 The project itself is included here and titled **Fundamentals DA-Project**.
 
